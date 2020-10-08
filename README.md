@@ -9,3 +9,5 @@ Este material é referente ao curso "Aprendendo representações com Deep Learni
 #FeatureExtraction3: extração de características utilizando ResNet50, fusão de características, redução de dimensionalidade com PCA e classificação com SVM
 
 #CNNFineTuning: fine-tuning utilizando ResNet50 com treinamento, gráfico e testes
+
+#AutoEncoder: rede profunda não supervisionada para prover características para classificação com SVM

@@ -1,6 +1,6 @@
 # Escola de Big Data 2020
 
-Este material é referente ao curso "Aprendendo representações com Deep Learning: arquiteturas, treinamento e transferência de aprendizado"
+Este material é referente ao curso "Aprendendo representações com Deep Learning: arquiteturas, treinamento e transferência de aprendizado" - Parte II
 
 #FeatureExtraction1: extração de características utilizando ResNet50 e Cross-Validation com K-NN
 

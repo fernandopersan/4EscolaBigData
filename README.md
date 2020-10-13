@@ -1,4 +1,4 @@
-# Escola de Big Data 2020
+# Escola de Big Data 2020 - ICMC/USP
 
 Este material é referente ao curso "Aprendendo representações com Deep Learning: arquiteturas, treinamento e transferência de aprendizado" - Parte II
 
